@@ -6,3 +6,5 @@ def reverse(l):
     return l
 l = eval(input())
 print(reverse(l))
+
+
